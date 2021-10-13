@@ -8,18 +8,18 @@
 
 # Site settings
 # title appears in the header
-title: workshop-template
+title: EmpathiCH
 # description and keywords for meta tags
-description: "Create an OER workshop website quick and easy!"
-keywords: "workshops, OER, Open Education, websites, gh-pages, jekyll"
+description: "How HCI can bridge empatehic gaps between stakeholders to adress societal problems"
+keywords: "HCI CHI empathy design"
 
 # author settings for cc-by, appears in the footer
-author: evan will
-pub_year: 2018
-github_username: evanwill
+author: Andrea Mauri
+pub_year: 2021
+github_username: janez87
 
 # add the full url for the github repository
-repo: "https://github.com/evanwill/workshop-template"
+#repo: "https://github.com/evanwill/workshop-template"
 
 # site urls
 # add the url for the domain,
