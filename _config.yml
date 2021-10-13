@@ -24,10 +24,10 @@ github_username: janez87
 # site urls
 # add the url for the domain,
 # on gh-pages follow the pattern: https://username.github.io 
-url: https://janez87.github.io/empathiCH/
+url: https://janez87.github.io/
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /workshop-template
+baseurl: /empathiCH/
 
 # add google analytics if desired (optional)
 # if blank, it will be ignored
