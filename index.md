@@ -10,7 +10,7 @@ The motivation behind this works lies in the necessity of new digital-supported 
   
 This full-day workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts.
   
-Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the ``Empathy Design at Scale'' research agenda.
+Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the "Empathy Design at Scale" research agenda.
 
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
