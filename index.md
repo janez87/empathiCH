@@ -2,29 +2,16 @@
 title: Home
 ---
 
-# Workshop Template!
+# EmpathiCH
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+EmpathiCH aims to bring together different expertise to investigate how digital tools can be used to elicit empathy between multiple stakeholders at scale.
+  
+The motivation behind this works lies in the necessity of new digital-supported methodologies to design at-scale solutions to societal problems that are balanced, inclusive, and aware of their effect on society.
+  
+This full-day workshop includes participants' presentations, an inspiring keynote talk, and a panel of experts.
+  
+Stimulated by this discussion, the expertise, and experiences of the participants will be combined during a participatory session to shape the future of the ``Empathy Design at Scale'' research agenda.
 
-A minimal Jekyll theme for creating workshop websites.
-
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template-b](https://evanwill.github.io/workshop-template-b/), Bootstrap version.
-
-<div class="toc" markdown="1">
-## Contents:
-
-{% for lesson in site.pages %}
-{% if lesson.nav == true %}- [{{ lesson.title }}]({{ lesson.url | relative_url }}){% endif %}
-{% endfor %}
-</div>
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
  
 > built using [Jekyll](https://jekyllrb.com/) and [GitHub Pages](https://pages.github.com/)
 >
